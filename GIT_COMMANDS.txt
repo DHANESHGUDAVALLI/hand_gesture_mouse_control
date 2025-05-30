@@ -1,0 +1,11 @@
+GIT COMMANDS:
+->to check the git version: git --version
+->to check the git status: git status
+->to initialize git : git init
+->to push a file into git: git add
+->to commit a file: git commit -m "pass a message"
+->to see the commit history: git log
+->to se the diff's b/w the commit1 and commit2: git diff commit1 commit2
+->to remove a file in git: git rm --cached <filename>
+->to clone the remote repo with local repo:  git remote add origin <ssh or https>
+-> to push files to remote repo: git push -u origin main
